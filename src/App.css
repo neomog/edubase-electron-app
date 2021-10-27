@@ -1,0 +1,56 @@
+
+
+.App-header {
+  /* background-color: #282c34; */
+  background-color: #fff;
+  min-height: 100vh;
+  color: white;
+}
+
+
+
+
+.mainContentFlex {
+  display: flex;
+  /* height: 100%; */
+  gap: 30px;
+  height: auto;
+  padding-top: 10px;
+}
+
+
+
+.mainContentMain {
+  width: 100%;
+  /* background-color: red; */
+  padding: 0 10px 0 0;
+  height: 100%;
+}
+
+.mainContent-content {
+  margin-top: 50px;
+  display: grid;
+  gap: 50px;
+  justify-content: space-between;
+  grid-template-columns: repeat(3, 1fr);
+  width: 100%;
+
+}
+
+.mainContent-contentterms {
+  margin-top: 50px;
+  display: grid;
+  gap: 50px;
+  justify-content: space-between;
+  grid-template-columns: repeat(2, 1fr);
+  width: 100%;
+}
+
+.mainContent-contentpdf {
+  margin-top: 25px;
+  /* display: grid;
+  gap: 50px;
+  justify-content: space-between;
+  grid-template-columns: repeat(2, 1fr); */
+  width: 100%;
+}

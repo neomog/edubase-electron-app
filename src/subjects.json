@@ -1,0 +1,12 @@
+[
+    {
+        "classid": "PRIMARY1",
+        "subjects": ["Agricultural Science", 
+            "Basic Science", "Basic Technology", 
+            "Christian Religious Studies", "Civic Education", 
+            "Cultural and Creative Art", "English Studies", "English Studies", 
+            "Home Economics", "ICT", "Mathematics", "Physical and Health Education", 
+            "Social Studies"],
+        "term": ["First Term", "Second Term"]     
+    }
+]
